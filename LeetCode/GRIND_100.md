@@ -49,7 +49,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Merge Two Sorted Lists
 - [ ] Remove Nth Node From End of List
 - [ ] Intersection of Two Linked Lists
-- [x] [Add Two Numbers](./C++/Uncategorized/Add Two Numbers/)
+- [x] [Add Two Numbers](./C++/Medium/2. Add Two Numbers/)
 - [ ] Copy List with Random Pointer
 - [ ] LRU Cache
 - [ ] Sort List
