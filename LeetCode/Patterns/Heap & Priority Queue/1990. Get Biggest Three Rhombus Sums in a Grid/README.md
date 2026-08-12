@@ -8,8 +8,8 @@
 Array, Math, Sorting, Heap (Priority Queue), Matrix, Prefix Sum
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 182 ms
+- **Memory:** 65.1 MB
 
 ---
 
