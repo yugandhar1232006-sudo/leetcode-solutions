@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool stoneGameIX(vector<int>& stones) {
-        int cnt[3] = {0, 0, 0};
+        int cnt[3] = {0};
 
         for (int x : stones) {
             cnt[x % 3]++;
