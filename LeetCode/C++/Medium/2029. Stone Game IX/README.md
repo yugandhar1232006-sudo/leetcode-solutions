@@ -1,6 +1,6 @@
 # 📝 2029. Stone Game IX (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/stone-game-ix/?envType=daily-question&envId=2026-08-16)
+🔗 [Problem Link](https://leetcode.com/problems/stone-game-ix)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
