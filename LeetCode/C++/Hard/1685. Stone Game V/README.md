@@ -8,8 +8,8 @@
 Array, Math, Dynamic Programming, Game Theory
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 964 ms
+- **Memory:** 27.7 MB
 
 ---
 
