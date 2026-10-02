@@ -1,6 +1,6 @@
 # 📝 22. Generate Parentheses (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/generate-parentheses/?envType=daily-question&envId=2026-10-02)
+🔗 [Problem Link](https://leetcode.com/problems/generate-parentheses/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 String, Dynamic Programming, Backtracking, Bracket Sequences
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 3 ms
+- **Memory:** 15.6 MB
 
 ---
 
