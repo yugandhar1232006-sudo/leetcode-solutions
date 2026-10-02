@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 1 / 150 (0.7%)
+- **Completed:** 2 / 150 (1.3%)
 
 ---
 
@@ -36,7 +36,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Sliding Window Maximum
 
 ### 📂 Stack
-- [ ] Valid Parentheses
+- [x] [Valid Parentheses](./C++/Easy/20. Valid Parentheses/)
 - [ ] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Generate Parentheses
