@@ -1,18 +1,15 @@
 class Solution {
 public:
     long long minimumCost(int cost1, int cost2, int costBoth, int need1, int need2) {
-        long long ans = LLONG_MAX;
+        long long a = need1;
+        long long b = need2;
 
-        vector<long long> candidates = {0, min(need1, need2), max(need1, need2)};
+        long long ans1 = a * cost1 + b * cost2;
+        long long ans2 = min(a, b) * costBoth
+                       + abs(a - b) * min(cost1, cost2 + cost1);
 
-        for (long long both : candidates) {
-            long long cost = both * costBoth
-                           + max(0LL, need1 - both) * cost1
-                           + max(0LL, need2 - both) * cost2;
+        long long ans3 = max(a, b) * costBoth;
 
-            ans = min(ans, cost);
-        }
-
-        return ans;
+        return min({ans1, ans2, ans3});
     }
 };
