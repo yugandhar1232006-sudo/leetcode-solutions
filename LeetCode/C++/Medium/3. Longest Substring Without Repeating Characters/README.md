@@ -8,8 +8,8 @@
 Hash Table, String, Sliding Window
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 8 ms
+- **Memory:** 19.1 MB
 
 ---
 
@@ -17,7 +17,7 @@ Hash Table, String, Sliding Window
 
 Given a string  `s` , find the length of the  **longest**   **substring**  without duplicate characters.
 
-OriginalC++ **Example 1:**
+**Example 1:**
 
 ```
 Input: s = "abcabcbb"
